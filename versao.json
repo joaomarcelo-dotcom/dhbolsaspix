@@ -2,12 +2,12 @@
   "versao_atual": "1.3",
   "obrigatoria": false,
   "novidades": [
-    "Permite beneficiário em empenho de outro credor, com alerta laranja",
-    "Botão Excluir tudo em Empenhos e Beneficiários",
-    "Importação de empenhos lê o nome do favorecido sem CPF/UG"
+    "Valores com R$ e com fórmulas são reconhecidos (vale só o número)",
+    "Lê planilhas de ofício com cabeçalho (Processo/Objeto) acima da tabela",
+    "Ao abrir, empenhos, beneficiários e dados do processo vêm em branco"
   ],
   "url_download": "https://drive.google.com/file/d/1y3bk5w4efDFy8hpTuek8vgraRMNfT1AQ/view?usp=sharing",
-  "sha256": "37afa066a96573625c1d1f7823d46b8d020eeea0ac1061346bdc5ae79a70efb6",
-  "assinatura": "MJUPMDgBFiIzeOxCvKaUb6vbYYTzanAwfDOtJgelAp+uhM59dnl6Z/AWQOKrbfBQ74LovZ9f6Q0zrJ2T16imDQ=="
+  "sha256": "b7e5984c716c29b0bde4d6205e1c30027a573fd061bf6e2c738449d441722370",
+  "assinatura": "+xdNIArRgceZSv9F+kzP7A/UUhXxGxq02Q35DYRCg2BUCqnfZAITZM75ZdqZVUV1tQJk+oFf4VjdBGFd0PXmBQ=="
 }
 
