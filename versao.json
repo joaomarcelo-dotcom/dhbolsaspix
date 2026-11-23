@@ -2,10 +2,12 @@
   "versao_atual": "1.2",
   "obrigatoria": false,
   "novidades": [
-    "Atualização automática: o programa baixa, confere a assinatura, instala e reinicia sozinho",
-    "Teste da atualização automática"
+    "Permite beneficiário em empenho de outro credor, com alerta laranja",
+    "Botão Excluir tudo em Empenhos e Beneficiários",
+    "Importação de empenhos lê o nome do favorecido sem CPF/UG"
   ],
   "url_download": "https://drive.google.com/file/d/1y3bk5w4efDFy8hpTuek8vgraRMNfT1AQ/view?usp=sharing",
-  "sha256": "6f1c9ce19a1c6b744f11c76677f7472a1c59d6ed8f28bb95dfe0dbcd2794d507",
-  "assinatura": "/KUhJ3VsOPqH7b1BsqAnHKXNYNiBftFhUj9UuXMluPbUUKvbSJzPEDOvVoRBP8duZv1ChRzZanhYdvPmLUb9AQ=="
+  "sha256": "37afa066a96573625c1d1f7823d46b8d020eeea0ac1061346bdc5ae79a70efb6",
+  "assinatura": "MJUPMDgBFiIzeOxCvKaUb6vbYYTzanAwfDOtJgelAp+uhM59dnl6Z/AWQOKrbfBQ74LovZ9f6Q0zrJ2T16imDQ=="
 }
+
