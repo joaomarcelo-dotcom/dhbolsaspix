@@ -2,12 +2,11 @@
   "versao_atual": "1.4",
   "obrigatoria": false,
   "novidades": [
-    "Valores com R$ e com fórmulas são reconhecidos (vale só o número)",
-    "Lê planilhas de ofício com cabeçalho (Processo/Objeto) acima da tabela",
-    "Ao abrir, empenhos, beneficiários e dados do processo vêm em branco"
+    "A janela de escolher o arquivo abre por cima do sistema, sem virar uma segunda tela",
+    "Atualização: só a opção Atualizar agora, que atualiza o sistema instalado"
   ],
   "url_download": "https://drive.google.com/file/d/1y3bk5w4efDFy8hpTuek8vgraRMNfT1AQ/view?usp=sharing",
-  "sha256": "b7e5984c716c29b0bde4d6205e1c30027a573fd061bf6e2c738449d441722370",
-  "assinatura": "+xdNIArRgceZSv9F+kzP7A/UUhXxGxq02Q35DYRCg2BUCqnfZAITZM75ZdqZVUV1tQJk+oFf4VjdBGFd0PXmBQ=="
+  "sha256": "a41d3dd3963d81eb8debbe48c88d5ea3a00477dc563670c90429b23706f63aa5",
+  "assinatura": "qrXjPrwxBx/HGvxZmKaJ5oHZ0TTGL8rlc2WwHiOx6DKpZJloQG/MaPcd3Xe1ZCHWIUhYlHp/Q96ru9EXgZjnBQ=="
 }
 
