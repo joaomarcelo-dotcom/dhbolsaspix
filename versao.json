@@ -2,10 +2,9 @@
   "versao_atual": "1.5",
   "obrigatoria": false,
   "novidades": [
-    "A janela de escolher o arquivo abre por cima do sistema, sem virar uma segunda tela",
-    "Atualização: só a opção Atualizar agora, que atualiza o sistema instalado"
+    "O beneficiário é ligado ao empenho também pelo nome do credor, sem diferenciar maiúsculas, minúsculas e acentos (ex.: Emília = EMILIA)"
   ],
   "url_download": "https://drive.google.com/file/d/1y3bk5w4efDFy8hpTuek8vgraRMNfT1AQ/view?usp=sharing",
-  "sha256": "a41d3dd3963d81eb8debbe48c88d5ea3a00477dc563670c90429b23706f63aa5",
-  "assinatura": "qrXjPrwxBx/HGvxZmKaJ5oHZ0TTGL8rlc2WwHiOx6DKpZJloQG/MaPcd3Xe1ZCHWIUhYlHp/Q96ru9EXgZjnBQ=="
+  "sha256": "78d1895dd22326d1bac73d2839b857d2605e1be22713a3267529a59676156232",
+  "assinatura": "V3mX/C9Us9I4Sv1TLR00J5AuIAaqMqo1hUGhS8CneMQLCtj78A/4urR4I+sXKNrvj/o1GrydMSPhptFiq7/LAg=="
 }
